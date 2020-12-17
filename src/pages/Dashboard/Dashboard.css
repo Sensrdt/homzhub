@@ -1,0 +1,12 @@
+.display-amount{
+    align-items: center;
+    justify-content: center;
+    float: left;
+}
+
+.dashboard-container{
+    margin: auto;
+}
+.chart{
+    background-color: rgb(150, 241, 207);
+}
